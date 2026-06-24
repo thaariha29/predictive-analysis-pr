@@ -160,7 +160,6 @@ The dashboard image will be saved in the same directory as `predictive_analytics
 
 **Thaariha**  
 Data Analytics Intern — Thiranex  
-Amity University, Noida
 
 ---
 
